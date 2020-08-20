@@ -124,7 +124,7 @@ body {
 
 /*PORTFOLIO*/
 
-.modal-btn {
+.button {
   font-weight: 500;
   font-size: var(--name-font-size);
   line-height: 26px;
@@ -132,8 +132,8 @@ body {
   color: var(--title-color-light-theme);
 }
 
-.modal-btn:hover,
-.modal-btn:focus {
+.button:hover,
+.button:focus {
   /*color: var(--title-color-dark-theme);*/
 }
 
